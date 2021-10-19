@@ -1,6 +1,8 @@
 # BERT
 ## 簡介
 [BERT](https://github.com/google-research/bert)
+
+Google目前提供許多版本的開源模型可供使用，可以省下自行花費大量時間及資源去重新訓練BERT模型。
 ### 什麼是BERT
 BERT全名為Bidirectional Encoder Representations from Transformers，顧名思義BERT的架構為Transformers中的Encoder。
 <img src="https://i.imgur.com/ZYBeNQF.png" alt="BERT" width="750"/>
