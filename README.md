@@ -1,4 +1,4 @@
-# BERT-tutorial
+# BERT
 ## 簡介
 [BERT](https://github.com/google-research/bert)
 ### 什麼是BERT
