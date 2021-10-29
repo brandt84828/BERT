@@ -42,3 +42,5 @@ Label: NotNextSentence
 ## Reference
 * [李宏毅教授的Youtube](https://www.youtube.com/c/HungyiLeeNTU/videos)
 * [Google-Research BERT github](https://github.com/google-research/bert)
+* [Classify text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
+* [Fine-tuning a BERT model](https://www.tensorflow.org/text/tutorials/fine_tune_bert)
